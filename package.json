@@ -1,0 +1,19 @@
+{
+  "name": "vcf-exporter",
+  "version": "1.0.0",
+  "description": "a simple function that creates vcf files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DagmawiAsfaw/vcf-exporter.git"
+  },
+  "author": "Dagmawi Asfaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DagmawiAsfaw/vcf-exporter/issues"
+  },
+  "homepage": "https://github.com/DagmawiAsfaw/vcf-exporter#readme"
+}
